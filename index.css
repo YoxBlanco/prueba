@@ -1,3 +1,7 @@
 h1, h3 {
   color: blue;
 }
+
+.imagen {
+  background-image: url("galeria_05.jpg");
+}
